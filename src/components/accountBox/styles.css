@@ -1,0 +1,58 @@
+/* .error_msg {
+
+    font-family: Helvetica;
+      font-size: 13px;
+      font-weight: bold;
+      color: #cc0033;
+      line-height: 20px;
+      background-color: #fce4e4;
+      border: 1px solid #fcc2c3;
+      border-radius: 7px;
+      left: 57%;
+      bottom: 66px;
+      float: left;
+      position:relative;
+      padding: 7px 11px 4px;
+      margin-left: 10px;
+      align-items: flex-end; /* distance between error tip and element it points to */
+
+
+
+
+/* .error_msg:after, .error_msg:before {
+  content: '';
+  border: 7px solid transparent;
+  position: absolute;
+  top: 10px;
+}
+.error_msg:after {
+  border-right: 7px solid #fce4e4;
+  left: -14px;
+}
+.error_msg:before {
+  border-right: 7px solid #fcc2c3;
+  left: -15px;
+}   */ 
+
+.error_msg {
+  color: #b22b27;
+  font-size: small;
+  padding-left: 0.5em;
+}
+
+.span_msg {
+  font-size: small;
+}
+
+.loginimg {
+  padding-right: 30em;
+ 
+  
+}
+.headerimg {
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  top:0;
+  left: 44.6em;
+}
